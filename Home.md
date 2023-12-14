@@ -19,6 +19,7 @@ Miscellaneous
 - Tips and tricks
 - Texture references
 - Model references
+- [File name list](File-Name-List)
 
 Custom course tutorial
 - Model basics (curves, model scale, uv squares)
